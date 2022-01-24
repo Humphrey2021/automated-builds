@@ -21,3 +21,16 @@ yarn add grunt
 touch gruntfile.js
 ```
 具体使用方式请查看`gurntfile.js`文件
+
+## Gulp
+> 高效，易用
+
+### Gulp 的基本使用
+```shell
+yarn init --yes
+yarn add gulp --dev
+# 创建 gulp 的入口文件
+touch gulpfile.js
+```
+具体使用方式请查看`gulpfile.js`文件
+
