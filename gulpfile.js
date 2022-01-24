@@ -8,7 +8,7 @@ exports.foo = done => {
     console.log('foo task working')
     done() // 标识任务完成
 }
-// 默认任务，直接执行 yarn gulp
+// 默认任务，直接执行 yarn gulp 命令
 exports.default = done => {
     console.log('default task working')
     done() // 标识任务完成
